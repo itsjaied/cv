@@ -1,0 +1,46 @@
+h1	{
+			text-align: center;
+/* 			color: #4db8ff; */
+			
+		}
+
+		h3	{
+
+			clear: left;
+/* 			color: #4db8ff; */
+			
+		}
+
+		div1	{
+			float: left;
+		}
+
+		div2 {
+			float: left;
+			text-align: left;
+		}
+		.name	{
+			font-size: 30px;
+		}
+
+		.work  {
+			
+			width: 100%;
+		}	
+		
+		.work_head, .work_data	{
+			border-bottom: 1px solid #ddd;
+		}
+		
+
+		
+			
+/* 		background-color: #4db8ff; */
+		
+		.edu, .edu_head, .edu_data	{
+			border: 1px solid;
+			border-collapse: collapse;
+			width: 50%;
+		}
+/* background-color: #4db8ff; */
+/* color:  #4db8ff; */
